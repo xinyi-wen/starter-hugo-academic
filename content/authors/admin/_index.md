@@ -1,11 +1,9 @@
 ---
 title: Xinyi Wen 闻欣怡
-role: PhD student at Leiden University
+role: PhD student at
 bio: ""
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Phonetics • Laboratory Phonology • Syntax-Prosody Interface
 social:
   - icon: envelope
     icon_pack: fas
@@ -15,14 +13,15 @@ social:
     link: uploads/resume.pdf
 organizations:
   - name: Leiden University Centre for Linguistics
+    url: https://www.universiteitleiden.nl/en/humanities/leiden-university-centre-for-linguistics
 education:
   courses:
     - course: MA in Linguistics
-      institution: Graduate School of Chinese Academy of Social Sciences (GSCASS)
+      institution: Graduate School of Chinese Academy of Social Sciences
       year: 2019
     - course: BA in English Language and Literature
       institution: Hunan University
-      year: 2017
+      year: 2016
 superuser: true
 status:
   icon: ☕️
