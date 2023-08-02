@@ -1,9 +1,12 @@
 ---
 title: Xinyi Wen 闻欣怡
 role: PhD student at
+avatar_filename: xwen_photo.png
 bio: ""
 interests:
-  - Phonetics • Laboratory Phonology • Syntax-Prosody Interface
+  - Phonetics
+  - Laboratory Phonology
+  - Syntax-Prosody Interface
 social:
   - icon: envelope
     icon_pack: fas
@@ -30,6 +33,5 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Xinyi Wen, a PhD student at Leiden University Centre for Linguistics. 
 {style="text-align: justify;"}
